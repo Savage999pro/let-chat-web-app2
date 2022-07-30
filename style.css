@@ -1,0 +1,25 @@
+body{
+    background-color:rgb(0, 225, 255);
+    
+
+}
+
+#pic{
+    width:250px;
+    height:150px;
+    border-radius: 50%;
+}
+#warning{
+   color:brown;
+}
+#pac{
+    height:75px;
+    width:100px;
+}
+
+
+
+
+
+
+
